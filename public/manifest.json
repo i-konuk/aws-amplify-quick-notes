@@ -1,6 +1,6 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "Forwards Memo",
+  "name": "Save notes for future.",
   "icons": [
     {
       "src": "favicon.ico",
